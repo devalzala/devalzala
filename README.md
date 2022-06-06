@@ -10,6 +10,7 @@
 - 📫 How to reach me: devalsinh1210@gmail.com, https://www.linkedin.com/in/devalsinh-zala/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Trying to be funny and programmer.
+- Project Links:- https://food-blog-nodejs.herokuapp.com/ , https://devalzala.github.io/ , https://deval-react-weather-app.netlify.app/ 
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/devu_zala_12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devalsinh-zala)
