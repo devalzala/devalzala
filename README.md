@@ -1,6 +1,6 @@
-### Hi there i am mostly working on Reactjs 👋
+HI There
 
-Here are some ideas to get you started:
+  I'm Devalsinh Zala
 
 - 🔭 I’m currently working on Reactjs
 - 🌱 I’m currently learning Nodejs
@@ -11,3 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Trying to be a programmer.
 -->
+
+
+
+TECHNOLOGIES:
