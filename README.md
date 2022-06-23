@@ -10,7 +10,7 @@
 - 📫 How to reach me: devalsinh1210@gmail.com, https://www.linkedin.com/in/devalsinh-zala/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Trying to be funny and programmer.
-- Project Links:- • https://video-chat-app-ern.netlify.app/
+- Project Links:- • https://video-chat-app-ern.netlify.app/,
                   •	https://food-blog-nodejs.herokuapp.com/ , 
                   •	https://devalzala.github.io/Reactwebsite/ , 
                   •	https://deval-react-weather-app.netlify.app/
