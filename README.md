@@ -11,6 +11,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Trying to be funny and programmer.
 - Project Links:- <br/>
+  • https://devalsinh-zala-portfolio.herokuapp.com/ <br/>
   • https://crossfitexercise.netlify.app/ <br/>
   • https://video-chat-app-ern.netlify.app/ <br/>
   •	https://food-blog-nodejs.herokuapp.com/ ,<br/> 
