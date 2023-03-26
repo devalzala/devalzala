@@ -16,7 +16,7 @@
   • https://video-chat-app-ern.netlify.app/ <br/>
   •	https://food-blog-nodejs.herokuapp.com/ ,<br/> 
   •	https://devalzala.github.io/Reactwebsite/ , <br/>
-  •	https://deval-react-weather-app.netlify.app/
+  •	https://deval-react-weather-app.netlify.app/, <br/>
   •	https://youtube-clone-devil.netlify.app
 
 ## 🌐Socials
