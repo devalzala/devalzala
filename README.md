@@ -2,8 +2,7 @@
 
 <h1>𝕀❜𝕞 𝔻𝕖𝕧𝕒𝕝𝕤𝕚𝕟𝕙 ℤ𝕒𝕝𝕒</h1>
 
-- 🔭 I’m currently working on Reactjs
-- 🌱 I’m currently learning Nodejs
+- 🔭 I’m currently working as Mern Stack Developer
 - 👯 I’m looking to collaborate on anywhere possible
 - 🤔 I’m looking for help with learning new technologies
 - 💬 Ask me about Developer
